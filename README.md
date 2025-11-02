@@ -31,7 +31,7 @@ This is a private project so I leaving the structure that I had when I first cam
 Copiliot:
 
 Explanation:
-
+```
 public/: Static files (mainly index.html for React)
 src/assets/: Images (e.g., nutrition label samples, app logo)
 src/components/: All reusable UI blocks
@@ -41,5 +41,5 @@ src/App.jsx: Main app composition and routing
 src/index.js: Entry point
 src/index.css: Import Tailwind and global styles
 tailwind.config.js: Tailwind configuration
-
+```
 Things to note this projects is simply frontend Once this is done a seperate project will be for the backend.
