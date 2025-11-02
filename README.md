@@ -1,6 +1,7 @@
 # demo-react-app-nutrition-tracker
 
 Structure:
+```
 my-nutrition-tracker/
 ├── public/
 │   └── index.html
@@ -24,7 +25,7 @@ my-nutrition-tracker/
 ├── package.json
 ├── tailwind.config.js
 └── README.md
-
+```
 This is a private project so I leaving the structure that I had when I first came up with this prodject. I would give this 2-3 stars difficulty only because json can be a little tricky. But here is what AI says about my planing.
 
 Copiliot:
